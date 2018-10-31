@@ -1,0 +1,24 @@
+{
+  "name": "evotor-node",
+  "version": "0.1.0",
+  "description": "Evotor SDK для облака",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bergusman/evotor-node.git"
+  },
+  "keywords": [
+    "evotor",
+    "api",
+    "nodejs"
+  ],
+  "author": "Vitaly Berg <bergusman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bergusman/evotor-node/issues"
+  },
+  "homepage": "https://github.com/bergusman/evotor-node#readme"
+}
