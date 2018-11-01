@@ -1,5 +1,5 @@
 # evotor-node
-JS обёртка для REST API облака Evotor
+JS обёртка для REST API облака Evotor.
 
 Документация к REST API:
 
