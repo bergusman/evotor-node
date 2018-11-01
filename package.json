@@ -2,7 +2,7 @@
   "name": "evotor-node",
   "version": "0.1.0",
   "description": "Evotor SDK для облака",
-  "main": "index.js",
+  "main": "./lib/evotor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bergusman/evotor-node/issues"
   },
-  "homepage": "https://github.com/bergusman/evotor-node#readme"
+  "homepage": "https://github.com/bergusman/evotor-node#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
